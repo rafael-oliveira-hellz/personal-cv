@@ -1,4 +1,7 @@
-# Rafael de Oliveira Silva 
-## Curriculum Vitae
+# Curriculum Vitae
 
-Esté é meu currículo virtual para que as empresas possam entender um pouco sobre mim e obter meus dados de contato caso desejem ter uma conversa mais aprofundada sobre propostas de emprego.
+Este repositório hospeda o código-fonte de meu currículo.
+
+Desta forma, as empresas podem entender um pouco mais sobre quem sou, meu background e obter maiores informações de contato (facebook, linkedin) e também dos repositórios em que hospedo meus projetos.
+
+Sintam-se à vontade para entrar em contato comigo!!! :D
