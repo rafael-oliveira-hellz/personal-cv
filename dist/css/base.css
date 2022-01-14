@@ -686,11 +686,6 @@ small {
 	line-height: inherit;
 }
 
-ol,
-ul {
-	list-style: none;
-}
-
 li {
 	display: block;
 }

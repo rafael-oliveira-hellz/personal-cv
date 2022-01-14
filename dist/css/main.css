@@ -188,6 +188,10 @@ img {
     padding: 1rem 0;
 }
 
+.text-uppercase {
+    text-transform: uppercase;
+}
+
 .progress-bar-bg {
     color: var(--mainText);
     background-color: var(--lightGreyText);
@@ -210,7 +214,7 @@ img {
     -ms-border-radius: 1rem;
     -o-border-radius: 1rem;
     background-color: var(--footerBgColor);
-    color: var(--lightGreyText);
+    color: var(--mainText);
 }
 
 /* MARGINS */
